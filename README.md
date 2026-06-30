@@ -8,6 +8,9 @@
   <i>Computer Science (Data Science) Student</i>
 </p>
 ========================================================================================
+
+---
+
 ## About Me
 
 - First-Year B.Tech student in **Computer Science (Data Science)**
