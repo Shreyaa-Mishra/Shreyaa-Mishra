@@ -50,14 +50,10 @@ Forecasting grocery demand using Machine Learning and Time Series Analysis.
 
 **Tech Stack:** Python • Pandas • NumPy.
 
+
 ### DSA in C++
 My journey of learning Data Structures & Algorithms with clean and well-documented C++ solutions.
 
----
-
-## 📈 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyaa-Mishra&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 ---
 
@@ -81,7 +77,7 @@ My journey of learning Data Structures & Algorithms with clean and well-document
 </a>
 
 <a href="https://leetcode.com/u/SHREYAawww/">
-  <img src="https://img.shields.io/badge/LeetCode-1f1f1f?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/Shreyaa-Mishra/">
