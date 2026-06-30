@@ -57,13 +57,7 @@ My journey of learning Data Structures & Algorithms with clean and well-document
 
 ## 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyaa-Mishra&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaa-Mishra&layout=compact&theme=github_dark"/>
-
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyaa-Mishra&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 ---
 
@@ -78,24 +72,26 @@ My journey of learning Data Structures & Algorithms with clean and well-document
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with me on
+
+## 🤝 Connect
 
 <p align="center">
 
 <a href="https://github.com/Shreyaa-Mishra">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/SHREYAawww/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-1f1f1f?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/Shreyaa-Mishra/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shreyakckicbly@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
