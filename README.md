@@ -9,7 +9,7 @@
 </p>
 ========================================
 
-## 👩‍💻 About Me
+## About Me
 
 - First-Year B.Tech student in **Computer Science (Data Science)**
 - Currently learning **C++, Data Structures & Algorithms, Python and Git**
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 
 -  Learning Data Structures & Algorithms with C++
 -  Exploring Python & Machine Learning
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -42,15 +42,15 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📊 Amazon Grocery Demand Forecasting
+### Amazon Grocery Demand Forecasting
 
 Forecasting grocery demand using Machine Learning and Time Series Analysis.
 
 **Tech Stack:** Python • Pandas • NumPy.
 
-### 💻 DSA in C++
+### DSA in C++
 My journey of learning Data Structures & Algorithms with clean and well-documented C++ solutions.
 
 ---
@@ -72,9 +72,7 @@ My journey of learning Data Structures & Algorithms with clean and well-document
 
 ---
 
-## 🤝 Connect with me on
-
-## 🤝 Connect
+## Connect with me on
 
 <p align="center">
 
