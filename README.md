@@ -7,7 +7,7 @@
 <p align="center">
   <i>Computer Science (Data Science) Student</i>
 </p>
-========================================
+==================================================
 
 ## About Me
 
