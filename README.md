@@ -67,12 +67,6 @@ My journey of learning Data Structures & Algorithms with clean and well-document
 
 ---
 
-## Contribution Graph
-
-![snake gif](https://raw.githubusercontent.com/Shreyaa-Mishra/Shreyaa-Mishra/output/github-snake.svg)
-
----
-
 ## Connect with me on
 
 <p align="center">
