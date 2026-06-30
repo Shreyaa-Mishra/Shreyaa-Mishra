@@ -57,7 +57,7 @@ My journey of learning Data Structures & Algorithms with clean and well-document
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -65,6 +65,11 @@ My journey of learning Data Structures & Algorithms with clean and well-document
 
 </p>
 
+---
+
+## Contribution Graph
+
+![snake gif](https://raw.githubusercontent.com/Shreyaa-Mishra/Shreyaa-Mishra/output/github-snake.svg)
 
 ---
 
