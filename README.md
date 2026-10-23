@@ -77,7 +77,7 @@ My journey of learning Data Structures & Algorithms with clean and well-document
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Shreyaa-Mishra/">
+<a href="https://leetcode.com/u/ShreyaaMishra/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
