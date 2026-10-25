@@ -13,7 +13,7 @@
 
 ## About Me
 
-- First-Year B.Tech student in **Computer Science (Data Science)**
+- Second-Year B.Tech student in **Computer Science (Data Science)**
 - Currently learning **C++, Data Structures & Algorithms, Python and Git**
 - Exploring **Machine Learning and Data Science**
 - I enjoy solving problems and building projects that improve my programming skills.
